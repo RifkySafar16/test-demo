@@ -1,0 +1,69 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "firstname": "Adelia",
+      "lastname": "Tri",
+      "email": "adetri@gmail.com",
+      "age": 24,
+      "companyId": "1"
+    },
+    {
+      "id": "2",
+      "firstname": "Ade",
+      "lastname": "Nurmalia",
+      "email": "adenur@gmail.com",
+      "age": 25,
+      "companyId": "2"
+    },
+    {
+      "id": "4",
+      "firstname": "Ricky",
+      "lastname": "Ray",
+      "email": "rickyray@gmail.com",
+      "age": 21,
+      "companyId": "2"
+    },
+    {
+      "id": "5",
+      "firstname": "Erick",
+      "lastname": "Chandra",
+      "email": "ercha@gmail.com",
+      "age": 27,
+      "companyId": "1"
+    },
+    {
+      "id": "6",
+      "firstname": "Kimi",
+      "lastname": "Hime",
+      "email": "kimhimhr@gmail.com",
+      "age": 21,
+      "companyId": "3"
+    },
+    {
+      "firstname": "Alex",
+      "lastname": "Ho",
+      "email": "alexho@gmail.com",
+      "age": 21,
+      "companyId": "3",
+      "id": "cP3UOUb"
+    }
+  ],
+  "companies": [
+    {
+      "id": "1",
+      "name": "Apple",
+      "description": "Apple Inc. adalah perusahaan teknologi multinasional yang berpusat di Cupertino, California, yang merancang, mengembangkan, dan menjual barang elektronik konsumen, perangkat lunak komputer, dan layanan daring."
+    },
+    {
+      "id": "2",
+      "name": "Microsoft",
+      "description": "Microsoft Corporation adalah sebuah perusahaan multinasional Amerika Serikat yang berkantor pusat di Redmond, Washington, Amerika Serikat yang mengembangkan, membuat, memberi lisensi, dan mendukung beragam produk dan jasa terkait dengan komputer. "
+    },
+    {
+      "id": "3",
+      "name": "Google",
+      "description": "Google Search adalah mesin pencari web yang dimiliki Google Inc. Google Search adalah mesin pencari yang paling banyak digunakan di dunia maya. Sekian ratus juta kueri dimasukkan setiap harinya oleh para peselancar web melalui berbagai macam layanan yang disediakan."
+    }
+  ]
+}
